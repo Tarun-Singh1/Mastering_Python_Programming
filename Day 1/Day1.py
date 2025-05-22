@@ -1,0 +1,13 @@
+username = input("What's your name?\n")
+age = int(input("How old are you?\n"))
+city = input("Which city do you live in?\n")
+hobbies = input("What are your hobbies?\n")
+movie = input("Your favorite movie?\n")
+
+print("----- Your Profile -----")
+print(f"Name        : {username}")
+print(f"Age         : {age}")
+print(f"City        : {city}")
+print(f"Hobbies     : {hobbies}")
+print(f"Fav. Movie  : {movie}")
+print("------------------------")
