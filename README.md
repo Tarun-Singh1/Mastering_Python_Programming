@@ -32,6 +32,11 @@ I post:
 
 ## 🗂️ Repo Structure
 
+📁 Day (No.)/
+├── Concept1.py # Coding exercises Instructions (with solutions)
+├── Concept2.py 
+├── Cancept3.py 
+├── FinalProject.py # Mini project of the day
 
 Each `.py` file contains:
 - ✅ **Instructions** as comments
@@ -53,10 +58,15 @@ Each `.py` file contains:
 |🔗 [Chat Link](https://chatgpt.com/share/682f27c5-4ea0-8000-8fcf-b6f123adb200) |
 |🔗 [Download Python](https://www.python.org/downloads/) | 
 |🔗 [Download PyCharm community edition](https://www.jetbrains.com/edu-products/download/#section=pycharm-edu) | 
+🎯 Day #1 Topics
+├── Print, String Manipulation, Input, Variables, Profile Card Final Project
+
 
 | Day 2 | 
-🔗 [Watch Video](#) | 
-🔗 [Chat Link](#) | – |
+|🔗 [Watch Video](https://youtu.be/LK8TXTBVqXY) | 
+|🔗 [Chat Link](https://chatgpt.com/share/683020f2-c120-8000-8993-98b1dff79eb6) |
+🎯 Day #2 Topics
+├── DataTypes,  Type (Errors, Checking, Conversion) ,  Mathematical Operations: PEMDAS, Number Manipulation (Flooring, Rounding, Assignment operator), Salary Budget Planner Final Project
 
 | Day 3 | 
 🔗 [Watch Video](#) | 
