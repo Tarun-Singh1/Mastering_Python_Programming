@@ -32,12 +32,6 @@ I post:
 
 ## 🗂️ Repo Structure
 
-📁 Day (No.)/
-├── Concept1.py # Coding exercises Instructions (with solutions)
-├── Concept2.py 
-├── Cancept3.py 
-├── FinalProject.py # Mini project of the day
-
 
 Each `.py` file contains:
 - ✅ **Instructions** as comments
@@ -55,10 +49,10 @@ Each `.py` file contains:
 | Day | YouTube Video | ChatGPT Learning | Extra Resources |
 |-----|---------------|------------------|------------------|
 | Day 1 | 
-🔗 [Watch Video](https://youtu.be/S7sxcJ6DGyM?feature=shared) | 
-🔗 [Chat Link](https://chatgpt.com/share/682f27c5-4ea0-8000-8fcf-b6f123adb200) |
-🔗 [Download Python](https://www.python.org/downloads/) | 
-🔗 [Download PyCharm community edition](https://www.jetbrains.com/edu-products/download/#section=pycharm-edu) | 
+|🔗 [Watch Video](https://youtu.be/S7sxcJ6DGyM?feature=shared) | 
+|🔗 [Chat Link](https://chatgpt.com/share/682f27c5-4ea0-8000-8fcf-b6f123adb200) |
+|🔗 [Download Python](https://www.python.org/downloads/) | 
+|🔗 [Download PyCharm community edition](https://www.jetbrains.com/edu-products/download/#section=pycharm-edu) | 
 
 | Day 2 | 
 🔗 [Watch Video](#) | 
