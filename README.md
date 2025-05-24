@@ -69,8 +69,10 @@ Each `.py` file contains:
 ├── DataTypes,  Type (Errors, Checking, Conversion) ,  Mathematical Operations: PEMDAS, Number Manipulation (Flooring, Rounding, Assignment operator), Salary Budget Planner Final Project
 
 | Day 3 | 
-🔗 [Watch Video](#) | 
-🔗 [Chat Link](#) | – |
+|🔗 [Watch Video](https://youtu.be/_-iRZ37yfak?si=Z_np07tAl7L9zN9c) | 
+|🔗 [Chat Link](https://chatgpt.com/share/68315893-43e4-8000-af28-83bc464daa86) |
+🎯 Day #3 Topics
+├── If/ Else, Nesting and Elif, Multiple Ifs, Logical Operators, Treasue Island Project- Final Project 
 
 | ...   | Coming Soon  | Coming Soon       | – |
 
