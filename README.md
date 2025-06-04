@@ -19,7 +19,7 @@ Every day, I:
 
 ## 🎬 YouTube Channel
 
-📺 [The Tarun Singh – Programming Tutorials](https://www.youtube.com/@The_Tarun_Singh)
+📺 [Tarun Singh Unfiltered](https://www.youtube.com/@The_Tarun_Singh)
 
 I post:
 - Concept explanations
@@ -51,8 +51,6 @@ Each `.py` file contains:
 ❗Day 1 and Day 2 video content and ChatGPT might seem a little different becuase I had no plans of sharing GPT chats until then,
   I made them general and new. Afterwards, things are fine!
 
-| Day | YouTube Video | ChatGPT Learning | Extra Resources |
-|-----|---------------|------------------|------------------|
 | Day 1 - Beginner - Working with Variables in Python to Manage Data | 
 |🔗 [Watch Video](https://youtu.be/S7sxcJ6DGyM?si=OT6u9TjuhnmO8ouD) | 
 |🔗 [Chat Link](https://chatgpt.com/share/682f27c5-4ea0-8000-8fcf-b6f123adb200) |
@@ -110,6 +108,11 @@ Each `.py` file contains:
 🎯 Day #7 Topics
 ├── Everything we have learned from Day 1 to Day 6.
 
+| Day 8 - Beginner - Functions with parameterss & Ceaser Chipher | 
+|🔗 [Watch Video](https://youtu.be/_-iRZ37yfak?si=oeXmvvKF6mL9ngrc) | 
+|🔗 [Chat Link](https://chatgpt.com/share/68403c31-4550-8000-a44e-5c765831470c) |
+🎯 Day #8 Topics
+├── Functions with parameters, Positional and keyword arguments, Caeser Cipher Final Project.
 
 > I update this table daily as I progress through the course.
 
