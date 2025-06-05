@@ -114,6 +114,12 @@ Each `.py` file contains:
 🎯 Day #8 Topics
 ├── Functions with parameters, Positional and keyword arguments, Caeser Cipher Final Project.
 
+| Day 9 - Beginner - Dictionaries📖, Nesting🪹 and the Secret Auction🤫Final Project  | Python 🐍 | 
+|🔗 [Watch Video](https://youtu.be/-inDvIMiwEc?si=9ytStr2jSpsgk0g3) | 
+|🔗 [Chat Link](https://chatgpt.com/share/68415a72-7e14-8000-8a47-354bf5b5e06c) |
+🎯 Day #9 Topics
+├── Dictionaries in python,  Nested Lists and Dictionaries, Secret Auction Final Project.
+
 > I update this table daily as I progress through the course.
 
 ---
